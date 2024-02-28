@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projekt1-415610",
+  "private_key_id": "f19ebf54e064dc1107f81563f0cfd84b4983763e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC04PolzwdK6M0W\nlgCUjBVuxB0Kx1NJwbPO5vvINrX43Nb+MbtRT5II4OIjIg653xdTXSYGX8ixPRIG\n9WWVl79zeSFATXDslCyQIORu4tE9851z8NdgyH7xWQaUeyxFKJkM4to1obM/b6VZ\nCPsIWZLGMQlsTNLBcoNfWPH9c8JpUMRfNS4+YQOfPW0EaB5dXhZcYpTFaSGcndsy\nshu5wEi/e6L9IXe3BJxFhay075taUCjGL8L8dUUk0OZHVUiO5HOSBoxTuKxyDYe2\n9IU1gGa/T5g0ZxhgrUkG5yZ94ZzUAesIp5NMYZRtzoUcneD0d6UJzrv0HmACFWSf\nlz4FapjTAgMBAAECggEAIAHTog8hfjr117JRhffH7yLa9MZS0bFqLQmoskQkLVZ+\n4NpSCFBpShLpUUg8jN2SVhkcmnImpF5nKz4PbMo+gaOEo8lQWzzZKeP4KDsQxcKv\nMQ4EPscb139mb63gJpjJhIM8E9N6UZZjDv9M1KxtEY8p2LU7cineX2fw4mWymEn7\nQg+qOsPR9GX6fYNMOLKQJeK2l6kD2+cAGU6X7VrjEnz1dFhDmEIRJcMNVyCrRSv2\nfcWUvSE6QLUU/VVvZWo7O3+EtrdxOFtWbOcOXS1b/OaGi5XDZLeK2nextWvsqoXv\n3/AOTUIyrkuz0bVmsgYeafeSQfTLNZi3AAdNvhiIyQKBgQDi8Jyf3GQnLFLMD4wZ\nR0XpCoAOnzRvnvQrvEiGRh951DKzU6apkVzFl5DvHQD2m0AG+fSeQZOKC4N113K0\nht+gL7g1SdKce9UL9/+JvTzFL57DXjXlEGaMNdQbvfCwu2EX8hc+a8SIuIUMqtq8\n0+d59ybqmTAHUwdfHFAHXHsIzQKBgQDMCmw5TCegPxYvPS5GpfASHSxxCaC3nyoM\nsv38le+xmHtsFxvXYoXg+FfgLjdklCqx/tMYIbp5QGOs0v2xIQmlUfRFSRKtOelO\na9t1Rc699zWqvONG/lvOaPVIDHAdVb1bu68Th4f3O+l3Friw3a5VrNNMyP6GBD4b\n7JygH7aoHwKBgQC9VKgW5rPXyq64+C+V11SH++6iREhm52ImKssG2vHfnh0+Zweg\naFnRr4WHN9dZ5mQgbeCbN3JztO9UHQ7hdbST27v/GTvQua8gcSKMM4jDqdr2e17T\nYD9tsmrnSivIBkwWwi6KMTaiKe82hkQ/TTrNElkxV+Qt+CMqQmCyA4HR8QKBgQCD\n9cWydNc34zUkzguss0sFXArO/GwN9YlLd0OeZRYFJNnFuVhPPy/YpKSonxtCGDVY\nsraxZ7bjDkqojjh2oyhK3Cr/2FeU4txJ1KW1PbWM1GHID6tp0b1sTCM+OpUT08zI\nlCSRm9jKg9vlIjPGZ0iFrmVlxqQd5oaIpslRIdGO/wKBgEt3BWFpupyXpj8ZfmlM\nCZ+i+ZjAcqDOYuQFpsOURExoGs/H+Yc9jFYMHmcnRhYM8egP7KsFJIZ86NCLFRv0\n641dLX8zQncyAq4mLiuVBApgtap/yfVpi3TOtGlZV396fWynMfAsOWNPxIw0BOjS\nC4A0oN+pCbUBOOofy3X1mhDJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "hubertklosowski@projekt1-415610.iam.gserviceaccount.com",
+  "client_id": "109895160276733395932",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hubertklosowski%40projekt1-415610.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
