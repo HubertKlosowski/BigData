@@ -3,7 +3,7 @@
 import sys
 
 current_continent = None
-total_case, total_dead = 0, 0
+total_cases, total_dead = 0, 0
 continent = None
 
 for line in sys.stdin:
