@@ -161,3 +161,4 @@ cython_debug/
 czesc6/
 czesc4/
 czesc7/
+*.csv
